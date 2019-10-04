@@ -1,5 +1,5 @@
 ## This is master file added bu Nik ##
 ## this is by amanb
-this is chage
+try to do merge_conflict
 line added by nikhil
 this is change
